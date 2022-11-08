@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, transparent, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -72,6 +72,30 @@ export const feedback = [
     title: "Founder & Leader",
     img: people03,
   },
+  {
+    id: "feedback-4",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Kenn Gallagher",
+    title: "Founder & Leader",
+    img: people03,
+  },
+  {
+    id: "feedback-5",
+    content:
+      "",
+    name: "",
+    title: "",
+    img: transparent,
+  },  
+  {
+    id: "feedback-6",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Kenn Gallagher",
+    title: "Founder & Leader",
+    img: people03,
+  },    
 ];
 
 export const stats = [
