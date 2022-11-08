@@ -147,7 +147,7 @@ export const footerLinks = [
     links: [
       {
         name: "Instagram",
-        link: "#",
+        link: "https://www.instagram.com/myitsclean_/?hl=id",
       },
       {
         name: "Facebook",
