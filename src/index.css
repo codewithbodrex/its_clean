@@ -21,12 +21,12 @@
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
-    #CCCBDC 0.89%,
-    #B3B1CB 17.23%,
-    #817CA8 42.04%,
-    #686297 55.12%,
-    #4E4885 71.54%,
-    #352E74 100%
+    #5FFFA4 0.89%,
+    #5FFFA4 17.23%,
+    #5FFFA4 42.04%,
+    #5FFFA4 55.12%,
+    #44FF95 71.54%,
+    #29FF86 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -37,12 +37,12 @@
 .bg-blue-gradient {
   background: linear-gradient(
     157.81deg,
-    #EAE4FF -43.27%,
-    #BFAFFF -21.24%,
-    #9479FF 12.19%,
-    #7F5FFF 29.82%,
-    #6944FF 51.94%,
-    #5429FF 90.29%
+    #E4FFF0 -43.27%,
+    #CAFFE1 -21.24%,
+    #AFFFD2 12.19%,
+    #5FFFA4 29.82%,
+    #44FF95 51.94%,
+    #29FF86 90.29%
   );
 }
 
@@ -51,7 +51,7 @@
     144.39deg,
     #ffffff -278.56%,
     #6d6d6d -78.47%,
-    #11101d 91.61%
+    #0C3E1F 91.61%
   );
 }
 
@@ -60,9 +60,9 @@
 .bg-black-gradient-2 {
   background: linear-gradient(
     -168.39deg,
-    #ffffff -278.56%,
-    #EAE4FF -78.47%,
-    #D4CAFF 91.61%
+    #E4FFF0 -278.56%,
+    #CAFFE1 -78.47%,
+    #AFFFD2 91.61%
   );
 }
 
@@ -127,12 +127,12 @@
 }
 
 .blue__gradient {
-  background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
+  background: linear-gradient(180deg, rgba(33, 165, 82, 0) 0%, #0C3E1F 100%);
   filter: blur(123px);
 }
 
 .pink__gradient {
-  background: linear-gradient(90deg, #f4c4f3 0%, #fc67fa 100%);
+  background: linear-gradient(90deg, #f4c4f3 0%, #197C3E 100%);
   filter: blur(900px);
 }
 

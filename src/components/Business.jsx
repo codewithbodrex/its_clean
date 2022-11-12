@@ -1,6 +1,6 @@
 import { features } from "../constants";
 import styles, { layout } from "../style";
-import { flat04 } from "../assets";
+import { flat08 } from "../assets";
 
 const FeatureCard = ({ icon, title, content, index }) => (
   <div className={`flex flex-row p-6 rounded-[20px] ${index !== features.length - 1 ? "mb-6" : "mb-0"} feature-card`}>
@@ -22,17 +22,17 @@ const Business = () => (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Cuci pakaian <br className="sm:block hidden" /> Dalam satu sentuhan.
+        Buang sampah <br className="sm:block hidden" /> Dalam satu sentuhan.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Klik, Tunggu, dan Beres! Pakaianmu bersih dan wangi menunggumu
+      Sampah menumpuk, tapi bingung mau dibuang kemana. Sekarang kami dapat mengurusnya. Cukup klik It's Clean maka petugas akan datang untuk mengurusnya.
       </p>
 
 
     </div>
 
     <div className={layout.sectionImg}>
-      <img src={flat04} alt="billing" className="w-[100%] h-[100%]" />
+      <img src={flat08} alt="billing" className="w-[100%] h-[100%]" />
     </div>
   </section>
 );

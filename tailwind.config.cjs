@@ -5,11 +5,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#352E74",
-        secondary: "#14112B",
-        lightPurple : "#5429FF",
+        primary: "black", 
+        secondary: "#21A552",
+        lightPurple : "#74C793",
         dimWhite: "rgba(255, 255, 255, 0.7)",
-        dimBlue: "rgba(9, 151, 124, 0.1)",
+        dimBlue: "90D2A9",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
