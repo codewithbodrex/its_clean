@@ -1,4 +1,4 @@
-import { people01, people02, people03, people04, people05, transparent, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, people04, people05, people06, transparent, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -61,10 +61,10 @@ export const feedback = [
     img: people04,
   },  
   {
-    id: "people03",
-    name: "Sintiarani F.P.",
+    id: "people06",
+    name: "Marcelino SP.P.",
     title: "Chief Finance Officer",
-    img: people03,
+    img: people06,
   },    
 ];
 

@@ -28,11 +28,12 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-import people01 from "./1.png";
-import people02 from "./2.png";
-import people03 from "./3.png";
-import people04 from "./4.png";
-import people05 from "./5.png";
+import people01 from "./1.svg";
+import people02 from "./2.svg";
+import people03 from "./3.svg";
+import people04 from "./4.svg";
+import people05 from "./5.svg";
+import people06 from "./6.svg";
 import transparent from "./transparent.png";
 
 export {
@@ -70,6 +71,7 @@ export {
   people02,
   people03,
   people04,
-  people05,    
+  people05,
+  people06,      
   transparent,
 };
