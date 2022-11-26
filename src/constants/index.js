@@ -48,24 +48,24 @@ export const features = [
 ];
 
 export const feedback = [
-  {
-    id: "people01",
-    name: "Alvian S.R.",
-    title: "Chief Executive Officer",
-    img: people01,
-  },  
-  {
-    id: "people02",
-    name: "Viqi A.",
-    title: "Chief Technology Officer",
-    img: people04,
-  },  
-  {
-    id: "people06",
-    name: "Marcelino SP.P.",
-    title: "Chief Finance Officer",
-    img: people06,
-  },    
+    {
+      id: "people02",
+      name: "Viqi A.",
+      title: "Chief Technology Officer",
+      img: people04,
+    },   
+    {
+      id: "people01",
+      name: "Alvian S.R.",
+      title: "Chief Executive Officer",
+      img: people01,
+    },  
+    {
+      id: "people06",
+      name: "Marcellino SP.P.",
+      title: "Chief Finance Officer",
+      img: people06,
+    },
 ];
 
 export const sec_card = [
@@ -80,7 +80,13 @@ export const sec_card = [
     name: "Bryan M.K.",
     title: "Chief Marketing Officer",
     img: people05,
-  },   
+  },
+  {
+    id : "people03",
+    name: "Sintiarani F.P",
+    title: "Chief Operating Officer",
+    img: people03,
+  }   
 ]
 export const stats = [
   {

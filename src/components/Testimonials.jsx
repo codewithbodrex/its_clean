@@ -12,9 +12,11 @@ const Testimonials = () => (
       </h2>
     </div>
 
+
     <div className="flex flex-col md:flex-row justify-center items-center w-full feedback-container relative z-[1]">
       {feedback.map((card) => <FeedbackCard key={card.id} {...card} />)}      
-    </div>
+    </div>      
+
     <div className="flex flex-col md:flex-row justify-center items-center w-full feedback-container relative z-[1]">
       {sec_card.map((card) => <FeedbackCard key={card.id} {...card} />)}      
     </div>    
